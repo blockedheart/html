@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Class_10_Assignment_By_Md_Minhaj</title>
+  </head>
+  <body>
+    <h1><strong><em><u>Learning Web Design</u></em></strong></h1>
+    <p title="Alone boy">We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.</p>
+    <a href="https://rb.gy/i8ydwr" target="_blank" title="Dear Best Friend">Every Best Friend Click Here</a>
+    &nbsp; &nbsp; &nbsp; &nbsp; 
+    <br><br>
+    <a href="https://www.facebook.com" target="_blank" title="facebook">Log in or sign up</a>
+    <br><br>
+    <a href="https://www.google.com" target="_blank" title="Best friend">Google</a>
+    <br><br>
+    <a href="https://www.youtube.com" target="_blank" title="Mood off">Youtube</a>
+    <br><br>
+    <a href="https://www.flipkart.com" target="_blank" title="Best Friend">Flipkart</a>
+    <br><br>
+    <a href="https://www.facebook.com/angryboyminhaj" target="_blank" title="contact me!">I am here</a>
+    <br><br>
+    
+    <a href="../Class11/index.html" target="_self" title="Home Page!">Home Page</a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="../Class9/about.html" target="_self" title="About Us!">About</a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="../Class8/best_friend.html" target="_self" title="Best Friend!">Best Friend</a>
+  </body>
+</html>
